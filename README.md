@@ -6,4 +6,6 @@ The code is broken down into the following files:
 - pgas_2d.cpp: The C++ code for simulating a random draw from the particular full conditional posterior distribution of interest either using a Gibbs sampler for a model parameter or using a Particle Gibbs with Ancestor Sampling algorithm for the latent time series variables such as volatility and jump sizes
 - run_mcmc_2c.R: The R code for running our MCMC algorithm for a prespecified burnin period, number of desired samples, and thinning parameter (if specified) at a given set of starting values specified in starting_values_2d.R
 - simulation_study_2d.R: The R code for conducting our thorough simulation study
-- 
+- empirical_data_study.R: The R code for conducting our initial data study for a 2-dimensional model between Bitcoin and the S&P 500
+- empirical_data_study_meme.R: The R code for conducting our Meme stock study
+- empirical_results: R Code files for creating the associated plots for our study
