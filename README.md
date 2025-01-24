@@ -9,3 +9,5 @@ The code is broken down into the following files:
 - empirical_data_study.R: The R code for conducting our initial data study for a 2-dimensional model between Bitcoin and the S&P 500
 - empirical_data_study_meme.R: The R code for conducting our Meme stock study
 - empirical_results: R Code files for creating the associated plots for our study
+- volatility_managed_est: R Code to assess the volatility managed portfolios
+- 
