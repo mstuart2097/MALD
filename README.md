@@ -10,4 +10,4 @@ The code is broken down into the following files:
 - empirical_data_study_meme.R: The R code for conducting our Meme stock study
 - empirical_results: R Code files for creating the associated plots for our study
 - volatility_managed_est: R Code to assess the volatility managed portfolios
-- 
+  
